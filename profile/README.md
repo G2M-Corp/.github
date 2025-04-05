@@ -5,5 +5,7 @@ O Doable foi desenvolvido utilizando Django + DRF no backend e Next.js + Zustand
 
 ---
 O manual de boas práticas da G2M Corp pode ser encontrado nesse link: <https://github.com/G2M-Corp/docs>
+
 A documentação do backend com as instruções de instalação, configuração e execução do sistema pode ser encontrada nesse link: <https://github.com/G2M-Corp/doable-backend>
+
 A documentação do frontend com as instruções de instalação, configuração e execução do sistema pode ser encontrada nesse link: <https://github.com/G2M-Corp/doable-frontend>
