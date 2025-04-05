@@ -1,12 +1,4 @@
-## Hi there 👋
+# Doable 🚀
+Doable é um sistema de gerenciamento de tarefas com foco em aumentar a produtividade e a organização dos seus usuários. Ele permite que usuários autenticados criem, editem, visualizem e removam tarefas, além de organizá-las por categorias e acompanhar seus respectivos status.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+O Doable foi desenvolvido utilizando Django + DRF no backend e Next.js + Zustand no frontend.
