@@ -62,7 +62,7 @@ Link para requisitos completos da atividade: https://eduardo-da-silva.github.io/
   https://github.com/G2M-Corp/doable-frontend
 
 - **Deploys públicos disponíveis:**
-  - Backend (Render): [https://doable-api.onrender.com/docs](https://doable-backend-jby1.onrender.com)
+  - Backend (Render): [https://doable-api.onrender.com/api/swagger](https://doable-backend-jby1.onrender.com/api/swagger)
   - Frontend (Vercel): [https://doable.lsx.li/](https://doable.lsx.li/)
 
 
