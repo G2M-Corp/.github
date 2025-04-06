@@ -63,7 +63,7 @@ Link para requisitos completos da atividade: https://eduardo-da-silva.github.io/
 
 - **Deploys públicos disponíveis:**
   - Backend (Render): [https://doable-api.onrender.com/docs](https://doable-backend-jby1.onrender.com)
-  - Frontend (Vercel): [https://doable-g2m.vercel.app/](https://doable-1ewb.vercel.app)
+  - Frontend (Vercel): [https://doable.lsx.li/](https://doable.lsx.li/)
 
 
 ---
